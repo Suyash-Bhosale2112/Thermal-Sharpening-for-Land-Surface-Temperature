@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriLST-ML — Statewide Thermal Sharpening for Land Surface Temperature
 
 Machine learning pipeline that downscales MODIS Land Surface Temperature (LST) from **1 km to 10 m resolution** using Sentinel-2 imagery and engineered environmental features, generalized across **36 districts of Maharashtra**.
@@ -98,3 +99,6 @@ Open the notebooks in Jupyter or Colab to see the full pipeline — from raw Sen
 
 - This is an educational/portfolio project — the model was trained on data current as of the training period and is not maintained for production inference.
 - Spatial cross-validation (LOGO) was used specifically to give an honest estimate of out-of-region generalization, rather than relying on random train/test splits which tend to overstate performance on spatially correlated geospatial data.
+=======
+# Thermal-Sharpening-for-Land-Surface-Temperature
+>>>>>>> origin/main
